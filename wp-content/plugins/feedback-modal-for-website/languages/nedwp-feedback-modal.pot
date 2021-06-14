@@ -1,0 +1,877 @@
+# Copyright (C) 2020 Feedback Modal for Website
+# This file is distributed under the same license as the Feedback Modal for Website package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Feedback Modal for Website 1.0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/nedwp-feedback-modal\n"
+"POT-Creation-Date: 2020-09-21 18:12:51+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: inc/admin/export.php:9 inc/admin/main.php:194 inc/functions.php:48
+#: inc/functions.php:49
+msgid "Feedback"
+msgstr ""
+
+#: inc/admin/export.php:60 inc/admin/list.php:47
+msgid "ID"
+msgstr ""
+
+#: inc/admin/export.php:61 inc/admin/list.php:48
+msgid "Opinion"
+msgstr ""
+
+#: inc/admin/export.php:62 inc/admin/list.php:49
+msgid "Comment"
+msgstr ""
+
+#: inc/admin/export.php:63 inc/admin/list.php:50
+msgid "Email"
+msgstr ""
+
+#: inc/admin/export.php:64 inc/admin/list.php:51
+msgid "Date"
+msgstr ""
+
+#: inc/admin/list.php:102
+msgid "No feedback founds."
+msgstr ""
+
+#: inc/admin/list.php:141 inc/admin/list.php:162
+msgid "Delete"
+msgstr ""
+
+#: inc/admin/list.php:188
+msgid "Not valid."
+msgstr ""
+
+#: inc/admin/list.php:237
+msgid "Select bulk action"
+msgstr ""
+
+#: inc/admin/list.php:245
+msgid "Bulk Actions"
+msgstr ""
+
+#: inc/admin/list.php:261
+msgid "Apply"
+msgstr ""
+
+#: inc/admin/list.php:268
+msgid "Export all CSV"
+msgstr ""
+
+#: inc/admin/list.php:274
+msgid "Export all JSON"
+msgstr ""
+
+#: inc/admin/main.php:174
+msgid "Feedback Modal Settings"
+msgstr ""
+
+#: inc/admin/main.php:175
+msgid "Feedback Modal"
+msgstr ""
+
+#: inc/admin/main.php:184
+msgid "Feedback Modal: Settings"
+msgstr ""
+
+#: inc/admin/main.php:185
+msgid "Settings"
+msgstr ""
+
+#: inc/admin/main.php:193
+msgid "Feedback Modal: Feedback"
+msgstr ""
+
+#: inc/admin/main.php:203
+msgid "Feedback Modal for Website"
+msgstr ""
+
+#: inc/admin/main.php:247 inc/admin/views/help-view.php:4
+msgid "General settings"
+msgstr ""
+
+#: inc/admin/main.php:251 inc/admin/views/help-view.php:5
+msgid "Modal settings"
+msgstr ""
+
+#: inc/admin/main.php:255 inc/admin/views/help-view.php:6
+msgid "Notifications settings"
+msgstr ""
+
+#: inc/admin/main.php:259 inc/admin/views/help-view.php:7
+msgid "Styles settings"
+msgstr ""
+
+#: inc/admin/main.php:263 inc/admin/views/help-view.php:8
+msgid "Messages settings"
+msgstr ""
+
+#: inc/admin/main.php:282
+msgid "Enable in desktop:"
+msgstr ""
+
+#: inc/admin/main.php:283
+msgid "Enable or disable feedback modal in desktop devices."
+msgstr ""
+
+#: inc/admin/main.php:289
+msgid "Enable in mobile:"
+msgstr ""
+
+#: inc/admin/main.php:290
+msgid "Enable or disable feedback modal in mobile devices."
+msgstr ""
+
+#: inc/admin/main.php:296
+msgid "Capability level:"
+msgstr ""
+
+#: inc/admin/main.php:297
+msgid "Required user level to view and manage feedback data."
+msgstr ""
+
+#: inc/admin/main.php:304
+msgid "Exporting data:"
+msgstr ""
+
+#: inc/admin/main.php:305
+msgid "Enable or disable exporting feature for feedback data."
+msgstr ""
+
+#: inc/admin/main.php:311
+msgid "Usage tracking:"
+msgstr ""
+
+#: inc/admin/main.php:312
+msgid "Allow us to anonymously track how this plugin is used."
+msgstr ""
+
+#: inc/admin/main.php:318
+msgid "Plugin notices:"
+msgstr ""
+
+#: inc/admin/main.php:319
+msgid "Enable or disable to show notices and suggestion."
+msgstr ""
+
+#: inc/admin/main.php:326
+msgid "Modal visibility:"
+msgstr ""
+
+#: inc/admin/main.php:327
+msgid "Select where the feedback modal will be displayed."
+msgstr ""
+
+#: inc/admin/main.php:331
+msgid "All pages"
+msgstr ""
+
+#: inc/admin/main.php:332
+msgid "Front page"
+msgstr ""
+
+#: inc/admin/main.php:337
+msgid "Modal position:"
+msgstr ""
+
+#: inc/admin/main.php:338
+msgid "Select the position for feedback modal and toggle."
+msgstr ""
+
+#: inc/admin/main.php:342
+msgid "Right"
+msgstr ""
+
+#: inc/admin/main.php:343
+msgid "Left"
+msgstr ""
+
+#: inc/admin/main.php:348
+msgid "Modal z-index:"
+msgstr ""
+
+#: inc/admin/main.php:349
+msgid "Select z-index stack order of the modal element."
+msgstr ""
+
+#: inc/admin/main.php:353
+msgid "999999"
+msgstr ""
+
+#: inc/admin/main.php:354
+msgid "9999999"
+msgstr ""
+
+#: inc/admin/main.php:355
+msgid "99999999"
+msgstr ""
+
+#: inc/admin/main.php:356
+msgid "999999999"
+msgstr ""
+
+#: inc/admin/main.php:357
+msgid "9999999999"
+msgstr ""
+
+#: inc/admin/main.php:358
+msgid "99999999999"
+msgstr ""
+
+#: inc/admin/main.php:359
+msgid "999999999999"
+msgstr ""
+
+#: inc/admin/main.php:364
+msgid "Size of toggle:"
+msgstr ""
+
+#: inc/admin/main.php:365
+msgid "Select your preferred size for modal toggle button."
+msgstr ""
+
+#: inc/admin/main.php:369
+msgid "Mini"
+msgstr ""
+
+#: inc/admin/main.php:370
+msgid "Normal"
+msgstr ""
+
+#: inc/admin/main.php:375
+msgid "Icon of toggle:"
+msgstr ""
+
+#: inc/admin/main.php:376
+msgid "Select Line Awesome icon for modal toggle button."
+msgstr ""
+
+#: inc/admin/main.php:380
+msgid "la-comment"
+msgstr ""
+
+#: inc/admin/main.php:381
+msgid "la-comments"
+msgstr ""
+
+#: inc/admin/main.php:382
+msgid "la-comment-alt"
+msgstr ""
+
+#: inc/admin/main.php:383
+msgid "la-comment-dots"
+msgstr ""
+
+#: inc/admin/main.php:384
+msgid "la-comment-medical"
+msgstr ""
+
+#: inc/admin/main.php:385
+msgid "la-envelope-open"
+msgstr ""
+
+#: inc/admin/main.php:386
+msgid "la-bell"
+msgstr ""
+
+#: inc/admin/main.php:387
+msgid "la-bullhorn"
+msgstr ""
+
+#: inc/admin/main.php:388
+msgid "la-envelope"
+msgstr ""
+
+#: inc/admin/main.php:389
+msgid "la-inbox"
+msgstr ""
+
+#: inc/admin/main.php:390
+msgid "la-edit"
+msgstr ""
+
+#: inc/admin/main.php:391
+msgid "la-copy"
+msgstr ""
+
+#: inc/admin/main.php:392
+msgid "la-stop"
+msgstr ""
+
+#: inc/admin/main.php:397
+msgid "Screen shadow:"
+msgstr ""
+
+#: inc/admin/main.php:398
+msgid "Enable or disable screen shadow behind the modal."
+msgstr ""
+
+#: inc/admin/main.php:404
+msgid "Enable icons:"
+msgstr ""
+
+#: inc/admin/main.php:405
+msgid "Enable or disable the use of icons in modal buttons."
+msgstr ""
+
+#: inc/admin/main.php:418
+msgid "Show opinion:"
+msgstr ""
+
+#: inc/admin/main.php:419
+msgid "Show or hide opinion field in feedback modal form."
+msgstr ""
+
+#: inc/admin/main.php:425
+msgid "Opinion required:"
+msgstr ""
+
+#: inc/admin/main.php:426
+msgid "Make the opinion field required in feedback modal."
+msgstr ""
+
+#: inc/admin/main.php:432
+msgid "Opinion default:"
+msgstr ""
+
+#: inc/admin/main.php:433
+msgid "Select default opinion field value in feedback modal."
+msgstr ""
+
+#: inc/admin/main.php:437
+msgid "1"
+msgstr ""
+
+#: inc/admin/main.php:438
+msgid "2"
+msgstr ""
+
+#: inc/admin/main.php:439
+msgid "3"
+msgstr ""
+
+#: inc/admin/main.php:440
+msgid "4"
+msgstr ""
+
+#: inc/admin/main.php:441
+msgid "5"
+msgstr ""
+
+#: inc/admin/main.php:442
+msgid "Disable"
+msgstr ""
+
+#: inc/admin/main.php:454
+msgid "Show comment:"
+msgstr ""
+
+#: inc/admin/main.php:455
+msgid "Show or hide comment field in feedback modal form."
+msgstr ""
+
+#: inc/admin/main.php:461
+msgid "Comment required:"
+msgstr ""
+
+#: inc/admin/main.php:462
+msgid "Make the comment field required in feedback modal."
+msgstr ""
+
+#: inc/admin/main.php:475
+msgid "Show email:"
+msgstr ""
+
+#: inc/admin/main.php:476
+msgid "Show or hide email field in feedback modal form."
+msgstr ""
+
+#: inc/admin/main.php:482
+msgid "Email required:"
+msgstr ""
+
+#: inc/admin/main.php:483
+msgid "Make the email field required in feedback modal."
+msgstr ""
+
+#: inc/admin/main.php:490
+msgid "Email notifications:"
+msgstr ""
+
+#: inc/admin/main.php:491
+msgid "Enable or disable email notifications for new feedback."
+msgstr ""
+
+#: inc/admin/main.php:497
+msgid "Email recipient/s:"
+msgstr ""
+
+#: inc/admin/main.php:498
+msgid "Enter email recipient/s separated by commas [,]."
+msgstr ""
+
+#: inc/admin/main.php:504
+msgid "Email subject:"
+msgstr ""
+
+#: inc/admin/main.php:505
+msgid "Input email subject for the feedback notifications."
+msgstr ""
+
+#: inc/admin/main.php:511
+msgid "Email message:"
+msgstr ""
+
+#: inc/admin/main.php:512
+msgid "Input email body for the feedback notifications. Use %link% for feedback link, %time% for feedback time, %plugin% for plugin name. For submitted feedback data use %opinion%, %comment%, %email%."
+msgstr ""
+
+#: inc/admin/main.php:519
+msgid "Content font:"
+msgstr ""
+
+#: inc/admin/main.php:520
+msgid "Select the main font for feedback modal."
+msgstr ""
+
+#: inc/admin/main.php:534
+msgid "Primary color:"
+msgstr ""
+
+#: inc/admin/main.php:535
+msgid "Select primary color for feedback modal."
+msgstr ""
+
+#: inc/admin/main.php:541
+msgid "Secondary color:"
+msgstr ""
+
+#: inc/admin/main.php:542
+msgid "Select secondary color for feedback modal."
+msgstr ""
+
+#: inc/admin/main.php:548
+msgid "Overlays color:"
+msgstr ""
+
+#: inc/admin/main.php:549
+msgid "Select overlays color for feedback modal."
+msgstr ""
+
+#: inc/admin/main.php:555
+msgid "Texts color:"
+msgstr ""
+
+#: inc/admin/main.php:556
+msgid "Select content color for feedback modal."
+msgstr ""
+
+#: inc/admin/main.php:562
+msgid "Inputs color:"
+msgstr ""
+
+#: inc/admin/main.php:563
+msgid "Select inputs color for feedback modal."
+msgstr ""
+
+#: inc/admin/main.php:569
+msgid "Notices color:"
+msgstr ""
+
+#: inc/admin/main.php:570
+msgid "Select notices color for feedback modal."
+msgstr ""
+
+#: inc/admin/main.php:577 inc/admin/main.php:584
+msgid "Feedback ..."
+msgstr ""
+
+#: inc/admin/main.php:578
+msgid "Default (toggle): Feedback"
+msgstr ""
+
+#: inc/admin/main.php:585
+msgid "Default (modal): Feedback"
+msgstr ""
+
+#: inc/admin/main.php:591
+msgid "Close ..."
+msgstr ""
+
+#: inc/admin/main.php:592
+msgid "Default: Close"
+msgstr ""
+
+#: inc/admin/main.php:598
+msgid "How would ..."
+msgstr ""
+
+#: inc/admin/main.php:599
+msgid "Default: How would you rate your experience?"
+msgstr ""
+
+#: inc/admin/main.php:605
+msgid "Do you ..."
+msgstr ""
+
+#: inc/admin/main.php:606
+msgid "Default: Do you have any additional comment?"
+msgstr ""
+
+#: inc/admin/main.php:612 inc/admin/main.php:626
+msgid "Please enter ..."
+msgstr ""
+
+#: inc/admin/main.php:613
+msgid "Default: Please enter your comment here"
+msgstr ""
+
+#: inc/admin/main.php:619
+msgid "Enter your ..."
+msgstr ""
+
+#: inc/admin/main.php:620
+msgid "Default: Enter your email if you'd like us to contact you regarding with your feedback."
+msgstr ""
+
+#: inc/admin/main.php:627
+msgid "Default: Please enter your email here"
+msgstr ""
+
+#: inc/admin/main.php:633
+msgid "Thank you ..."
+msgstr ""
+
+#: inc/admin/main.php:634
+msgid "Default: Thank you for submitting your feedback!"
+msgstr ""
+
+#: inc/admin/main.php:640
+msgid "Back ..."
+msgstr ""
+
+#: inc/admin/main.php:641
+msgid "Default: Back"
+msgstr ""
+
+#: inc/admin/main.php:647 inc/admin/main.php:654
+msgid "This field ..."
+msgstr ""
+
+#: inc/admin/main.php:648
+msgid "Default: This field is required."
+msgstr ""
+
+#: inc/admin/main.php:655
+msgid "Default: This field is invalid."
+msgstr ""
+
+#: inc/admin/main.php:661
+msgid "Next ..."
+msgstr ""
+
+#: inc/admin/main.php:662
+msgid "Default: Next"
+msgstr ""
+
+#: inc/admin/main.php:668
+msgid "Submit ..."
+msgstr ""
+
+#: inc/admin/main.php:669
+msgid "Default: Submit"
+msgstr ""
+
+#: inc/admin/main.php:675
+msgid "Bad ..."
+msgstr ""
+
+#: inc/admin/main.php:676
+msgid "Default: Bad!"
+msgstr ""
+
+#: inc/admin/main.php:682
+msgid "Poor ..."
+msgstr ""
+
+#: inc/admin/main.php:683
+msgid "Default: Poor!"
+msgstr ""
+
+#: inc/admin/main.php:689
+msgid "Fair ..."
+msgstr ""
+
+#: inc/admin/main.php:690
+msgid "Default: Fair!"
+msgstr ""
+
+#: inc/admin/main.php:696
+msgid "Good ..."
+msgstr ""
+
+#: inc/admin/main.php:697
+msgid "Default: Good!"
+msgstr ""
+
+#: inc/admin/main.php:703
+msgid "Great ..."
+msgstr ""
+
+#: inc/admin/main.php:704
+msgid "Default: Great!"
+msgstr ""
+
+#: inc/admin/main.php:768
+msgid "Default settings restored."
+msgstr ""
+
+#: inc/admin/main.php:778
+msgid "These options are generaly safe to edit as needed."
+msgstr ""
+
+#: inc/admin/main.php:894
+msgid "-Theme Inherit-"
+msgstr ""
+
+#: inc/admin/main.php:1048
+msgid "Thank you for choosing <b>%1$s</b>. Contribute some donation, to make plugin more stable. You can pay amount of your choice."
+msgstr ""
+
+#: inc/admin/main.php:1053 inc/admin/views/sbar-view.php:8
+msgid "Donate"
+msgstr ""
+
+#: inc/admin/main.php:1054
+msgid "Not now"
+msgstr ""
+
+#: inc/admin/tracking.php:48
+msgid "Once a month"
+msgstr ""
+
+#: inc/admin/views/help-view.php:17
+msgid "Reset Settings"
+msgstr ""
+
+#: inc/admin/views/help-view.php:29
+msgid "Reset defaults"
+msgstr ""
+
+#: inc/admin/views/help-view.php:36
+msgid "Capability Levels"
+msgstr ""
+
+#: inc/admin/views/help-view.php:43
+msgid "WordPress Roles and Capabilities page"
+msgstr ""
+
+#: inc/admin/views/help-view.php:45
+msgid "See the %1$s for details on capability levels."
+msgstr ""
+
+#: inc/admin/views/help-view.php:53
+msgid "Usage Tracking"
+msgstr ""
+
+#: inc/admin/views/help-view.php:60
+msgid "This is what we track."
+msgstr ""
+
+#: inc/admin/views/help-view.php:62
+msgid "Help us make plugin better fit and understand your needs. %1$s"
+msgstr ""
+
+#: inc/admin/views/help-view.php:70
+msgid "Custom Request"
+msgstr ""
+
+#: inc/admin/views/help-view.php:74
+msgid "For custom plugin modification contact in this email address:"
+msgstr ""
+
+#: inc/admin/views/help-view.php:82
+msgid "Plugin Support"
+msgstr ""
+
+#: inc/admin/views/help-view.php:85
+msgid "We're sorry you're having problem with the plugin and we're happy to help out."
+msgstr ""
+
+#: inc/admin/views/help-view.php:87
+msgid "Email:"
+msgstr ""
+
+#: inc/admin/views/help-view.php:91
+msgid "Website:"
+msgstr ""
+
+#: inc/admin/views/help-view.php:99 inc/admin/views/sbar-view.php:3
+msgid "Plugin Donation"
+msgstr ""
+
+#: inc/admin/views/help-view.php:102
+msgid "Feel like showing us how much you enjoy the plugin? Contribute some donation."
+msgstr ""
+
+#: inc/admin/views/help-view.php:104
+msgid "Buy Me a Coffee:"
+msgstr ""
+
+#: inc/admin/views/help-view.php:112
+msgid "Plugin Credits"
+msgstr ""
+
+#: inc/admin/views/help-view.php:121
+msgid "%1$s, a full-service digital agency approach to grow your business."
+msgstr ""
+
+#: inc/admin/views/list-view.php:4 inc/admin/views/main-view.php:4
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: inc/admin/views/main-view.php:10
+msgid "General"
+msgstr ""
+
+#: inc/admin/views/main-view.php:11
+msgid "Modal"
+msgstr ""
+
+#: inc/admin/views/main-view.php:12
+msgid "Notifications"
+msgstr ""
+
+#: inc/admin/views/main-view.php:13
+msgid "Styles"
+msgstr ""
+
+#: inc/admin/views/main-view.php:14
+msgid "Messages"
+msgstr ""
+
+#: inc/admin/views/main-view.php:15
+msgid "Help"
+msgstr ""
+
+#: inc/admin/views/sbar-view.php:6
+msgid "Contribute some donation, to make plugin more stable. You can pay amount of your choice. Thank you."
+msgstr ""
+
+#: inc/admin/views/sbar-view.php:15 inc/admin/views/sbar-view.php:20
+msgid "Custom Project"
+msgstr ""
+
+#: inc/admin/views/sbar-view.php:18
+msgid "We approach each project, big or small, the same way. We familiarize ourselves with you, your business and your customers."
+msgstr ""
+
+#: inc/admin/views/sbar-view.php:27 inc/admin/views/sbar-view.php:32
+msgid "Premium Theme"
+msgstr ""
+
+#: inc/admin/views/sbar-view.php:30
+msgid "Brodus is a clean, modern and elegant WordPress theme, carefully crafted with lot of different layouts, styles and options."
+msgstr ""
+
+#: inc/functions.php:33
+msgid "New feedback submitted at %1$s"
+msgstr ""
+
+#: inc/functions.php:36
+msgid "A new feedback has been submitted. View it: %link%. This email was sent from your website by the %plugin% plugin at %time%."
+msgstr ""
+
+#: inc/functions.php:50
+msgid "Close"
+msgstr ""
+
+#: inc/functions.php:51
+msgid "Back"
+msgstr ""
+
+#: inc/functions.php:52
+msgid "Next"
+msgstr ""
+
+#: inc/functions.php:53
+msgid "Submit"
+msgstr ""
+
+#: inc/functions.php:54
+msgid "How would you rate your experience?"
+msgstr ""
+
+#: inc/functions.php:55
+msgid "Do you have any additional comment?"
+msgstr ""
+
+#: inc/functions.php:56
+msgid "Please enter your comment here"
+msgstr ""
+
+#: inc/functions.php:57
+msgid "Enter your email if you'd like us to contact you regarding with your feedback."
+msgstr ""
+
+#: inc/functions.php:58
+msgid "Please enter your email here"
+msgstr ""
+
+#: inc/functions.php:59
+msgid "Thank you for submitting your feedback!"
+msgstr ""
+
+#: inc/functions.php:60
+msgid "This field is required."
+msgstr ""
+
+#: inc/functions.php:61
+msgid "This field is invalid."
+msgstr ""
+
+#: inc/functions.php:62
+msgid "Bad!"
+msgstr ""
+
+#: inc/functions.php:63
+msgid "Poor!"
+msgstr ""
+
+#: inc/functions.php:64
+msgid "Fair!"
+msgstr ""
+
+#: inc/functions.php:65
+msgid "Good!"
+msgstr ""
+
+#: inc/functions.php:66
+msgid "Great!"
+msgstr ""
+#. Plugin Name of the plugin/theme
+msgid "Feedback Modal for Website"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://nedwp.com/fm"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Allow your visitor/customer submit instant visual feedback on your website."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Nedwp"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://nedwp.com"
+msgstr ""
